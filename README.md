@@ -1,5 +1,4 @@
-# WELCOME TO MY  👋
-Smiling Face with Smiling Eyes on Microsoft Teams 
+# Work all day, sleep all night, and that's me 👋😊👋
 <!--
 **windhashira06/windhashira06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
