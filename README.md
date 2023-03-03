@@ -6,5 +6,7 @@ My name is Long Hoang, you can call me Long 😂. I have a passion for Programmi
 </p>
 
 ## Outstanding 😙👇
+![python](https://user-images.githubusercontent.com/121651344/222626182-f7e95cd3-dac1-439c-bc23-9476da3984e3.png)   ![C++](https://user-images.githubusercontent.com/121651344/222626356-44ae9221-0287-4857-acf6-9ff26949f8fb.png)
+
 
 ![Long's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=windhashira06&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
