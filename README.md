@@ -6,5 +6,5 @@ My name is Long Hoang, you can call me Long 😂. I have a passion for Programmi
 </p>
 
 # Connect with me:
-- [LinkedIn](www.linkedin.com/in/ long-hoàng-l110200)
+- [LinkedIn](www.linkedin.com/in/long-hoàng-l110200)
 - [Facebook](https://www.facebook.com/phung.long.7140/)
