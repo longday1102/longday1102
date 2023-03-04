@@ -10,3 +10,7 @@ My name is Long Hoang, you can call me Long 😂. I have a passion for Programmi
 
 
 ![Long's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=windhashira06&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+
+<a href="https://github.com/windhashira06/NMT-with-Seq2Seq/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=windhashira06&repo=NMT-with-Seq2Seq&theme=merko" />
