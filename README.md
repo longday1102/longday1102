@@ -1,4 +1,4 @@
-### HELLO, WELCOME TO MY PAGE 👋😊👋
+### HELLO! WELCOME TO MY PAGE 👋😊👋
 
 My name is Long Hoang, you can call me Long 😂. I have a passion for Programming and the following topics: Machine Learning, Deep Learning and Natural Language Processing. I've always been fascinated by problems revolving around those topics. 🤖
 <p align="center">
