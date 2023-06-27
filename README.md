@@ -11,12 +11,12 @@ My name is Long Hoang, you can call me Long 😂. I have a passion for Programmi
 <code><img src="logo/git.png" width="27" height="27" title="Git"/></code>
 
 
-![Long's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bomba1102&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Long's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=longday1102&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-<a href="https://github.com/bomba1102/NMT-with-Seq2Seq/">
+<a href="https://github.com/longday1102/NMT-with-Seq2Seq/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bomba1102&repo=NMT-with-Seq2Seq&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longday1102&repo=NMT-with-Seq2Seq&theme=merko" />
   
-  <a href="https://github.com/bomba1102/Demo-QA-Extraction-system/">
+  <a href="https://github.com/longday1102/Demo-QA-Extraction-system/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bomba1102&repo=Demo-QA-Extraction-system&theme=radical" /> 
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longday1102&repo=Demo-QA-Extraction-system&theme=radical" /> 
