@@ -16,7 +16,11 @@ My name is Long Hoang, you can call me Long 😂. I have a passion for Programmi
 <a href="https://github.com/longday1102/NMT-with-Seq2Seq/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longday1102&repo=NMT-with-Seq2Seq&theme=merko" />
+
+<a href="https://github.com/longday1102/VietAI-experiment-LLaMA2/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longday1102&repo=VietAI-experiment-LLaMA2&theme=gruvbox" />  
   
-  <a href="https://github.com/longday1102/Demo-QA-Extraction-system/">
+<a href="https://github.com/longday1102/Demo-QA-Extraction-system/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longday1102&repo=Demo-QA-Extraction-system&theme=radical" /> 
