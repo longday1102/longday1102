@@ -24,3 +24,7 @@ My name is Long Hoang, you can call me Long 😂. I have a passion for Programmi
 <a href="https://github.com/longday1102/Demo-QA-Extraction-system/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longday1102&repo=Demo-QA-Extraction-system&theme=radical" /> 
+
+<a href="https://github.com/longday1102/OVM/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longday1102&repo=OVM&theme=dracula" />
